@@ -334,7 +334,7 @@ p.cta-sub-title {
 }
 
 .team-social li a {
-    color: #FF007F;
+    color: rgb(255, 255, 255);
 }
 
 .blue-light {
@@ -593,7 +593,7 @@ p.cta-sub-title {
 }
 
 #banner {
-    background: url('../img/investasi.png') no-repeat;
+    background: url('../img/investasi2.jpg') no-repeat;
     background-size: cover;
     min-height: 600px;
 }
